@@ -1,0 +1,98 @@
+.cl{
+	color: black;
+}
+.navbar-brand-box{
+	background-color: white;
+    border-bottom: 36px solid black;
+    border-top: 32px solid black;
+    border-left: 36px solid black;
+    border-right: 36px solid black;
+}
+
+.logo>img{
+	height: 80px;
+}
+
+.#sidebar-menu ul li a:hover{
+	background-color: white;
+}
+
+.c_row{
+	    text-align: center;
+    background: radial-gradient(#1a1b1fc2, #010410);
+    color: white;
+}
+.t-center{
+	text-align: center;
+}
+.t-black{
+	color: black;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+#basic-datatable tr:nth-child(even) {
+  background-color: #eee;
+}
+#basic-datatable tr:nth-child(odd) {
+ background-color: #fff;
+}
+#basic-datatable th {
+  background-color: black;
+  color: white;
+}
+
+#sidebar-menu ul li a:hover{
+  background-color:black;
+  color: white;
+}
+body{
+  font-family: Arial;
+}
+h1,h2,h3,h4,h5,h6{
+  font-family: Arial;
+}
+.a-label{
+  color: black;
+  font-size: 24px;
+}
+.a2-label{
+  color: black;
+  font-size: 20px;
+}
+
+.red{
+  color: red;
+}
+.green{
+  color: green;
+}
+
+.table th, .table td{
+  padding:0.5rem;
+}
+
+.table th, .table td{
+  padding:0.5rem;
+}
+
+.ctable th, .ctable td{
+  padding: 15px 0px;
+   border: 0.5px solid green;
+}
+
+#basic-datatable_filte .form-control{
+    width: 250px;
+    height: 40px;
+    font-size: 19px;
+}
+#basic-datatable_filter>label{
+ font-size: 20px;
+ font-weight: bolder;
+}
+
+.form-control{
+  font-size: 1rem;
+  color: black;
+}
